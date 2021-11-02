@@ -1,0 +1,23 @@
+div{
+  background-color: blue;
+  opacity: 50%; 
+  text-decoration: green; 
+  font-size: 23px;
+  font-family: Verdana;
+  font-weight: bold;
+  border: 5px; 
+  border-color: red;
+  border-style: dotted;
+  width: 50%;
+  height: 200px;
+}
+
+body{
+  background-size: 100%;
+  background-image: url("nature.jpg");
+  background-attachment: fixed;
+}
+
+#link1{
+  color: green;
+}
